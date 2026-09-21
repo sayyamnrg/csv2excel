@@ -1,0 +1,6 @@
+{
+  "name": "CSV to Excel",
+  "description": "Fast and easy CSV to Excel (.xlsx) converter with live preview, delimiter detection, and direct sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
